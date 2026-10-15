@@ -96,10 +96,10 @@
 | **Copilot**  | Mozilla Firefox    |       ✓       |       ✓       |      ✓      |      ✓       |      ✓       |        ✓        |     ✓     |     ✓      |      ✓       |
 ## Metodologi dan Alur Skenario Pengujian
 
-![Alur Skenario Pengujian Forensik](diagram/skenario-rev.png)
+![Alur Skenario Pengujian Forensik](Diagram/skenario-rev.png)
 ## Ringkasan Visual Temuan Artefak
 
-![Grafik Komparasi Temuan Artefak](diagram/chart.png)
+![Grafik Komparasi Temuan Artefak](Diagram/chart.png)
 #### **Google Chrome (_Chromium Engine_)**
 
 | Artefak Target          | Path Direktori Sistem (Windows)                                         | Format File / Database                |
